@@ -5,6 +5,16 @@
 ###
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/sapna-kumari-9302b9213?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHNBYZkaXSvKdd4WCc6M7tQ%3D%3D">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
+
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sapna398.sapna398&"  />
 </div>
 
@@ -72,12 +82,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sapna398&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 ###
