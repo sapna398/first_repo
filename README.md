@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Sapna, a Computer Science Engineering student passionate about coding and building cool stuff. Welcome to my GitHub profile! 🚀<br><br>🚀 Skills<br>Languages: C++, Python<br>Web Technologies: HTML, CSS, Tailwind CSS, JavaScript, React<br>Data Science: NumPy, Pandas<br>Databases: MongoDB, MySQL<br>🔧 Tools & Technologies<br>Version Control: Git<br>Database Management: MongoDB, MySQL<br>Frontend Libraries: React<br>Styling: Tailwind CSS<br>Data Analysis: NumPy, Pandas<br>🌱 Learning<br>I'm always learning and exploring new technologies. Currently, I'm diving deeper into coding.</p>
+<p align="left">I'm Sapna, a Computer Science Engineering student passionate about coding and building cool stuff. Welcome to my GitHub profile!       🚀<br><br>🚀 Skills<br>Languages: C++, Python<br>Web Technologies: HTML, CSS, Tailwind CSS, JavaScript, React<br>Data Science: NumPy, Pandas<br>Databases: MongoDB, MySQL<be>      🔧 Tools & Technologies<br>Version Control: Git<br>Database Management: MongoDB, MySQL<br>Frontend Libraries: React<br>Styling: Tailwind CSS<br>Data Analysis: NumPy, Pandas<be>     🌱 Learning<br>I'm always learning and exploring new technologies. Currently, I'm diving deeper into coding.</p>
 
 ###
 
